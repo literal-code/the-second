@@ -1,6 +1,7 @@
 a{
     color: white;
     text-decoration: underline;
+    display:block;
 }
 body{
     background-color: #EBEBEB;
